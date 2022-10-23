@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>New build file!</h2>
+<h2>This should work!</h2>
 </body>
 </html>
